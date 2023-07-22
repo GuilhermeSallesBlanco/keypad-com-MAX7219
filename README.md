@@ -1,4 +1,4 @@
-# keypad-com-MAX7219
+# keypad-MAX7219
 Português:
 
 Este programa, escrito para a placa Arduino UNO, possui duas funções:
